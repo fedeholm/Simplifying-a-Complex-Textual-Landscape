@@ -1,4 +1,4 @@
-# Simplyfying a Complex (Textual) Landscape 
+# Simplifying a Complex (Textual) Landscape 
 
 Erdos-2021-text-classifier-public-comments
 
